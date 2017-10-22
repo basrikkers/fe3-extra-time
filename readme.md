@@ -1,18 +1,25 @@
-# ![Extra Time][banner]
+# Extra Time
+In this assessment i've done 20 hours of extra time, working with javascript, d3 and more.
 
-This repository can be forked for [**extra time**][et] of [frontend 3][fe3]
-at [**@CMDA**][cmda].
+### What have i done? 
 
-## TODO
+I've done a javascript course from codecademy. I've practiced with the writing javascript code and it's essential basics.
+* [codecademy](https://www.codecademy.com/en/courses/learn-javascript/lessons/introduction-to-javascript/exercises/types?action=resume)
 
-*   [ ] Replace this document in your fork with your own readme!
+i've watched a tutorial Introduction to d3 on youtube. In this video all the basics of d3 js, barcharts and pie charts are explained
+* [youtube tutorial](https://www.youtube.com/watch?v=8jvoTV54nXw)
 
-[banner]: https://cdn.rawgit.com/cmda-fe3/logo/9fd877f/banner-extra-time.svg
+i've watched a keynote speach from Mike Bostock, who makes a lot of d3 graphs that i have used during this course.
+* [youtube speach](https://www.youtube.com/watch?v=aT4JvF7sglg)
 
-[et]: https://github.com/cmda-fe3/course-17-18/blob/master/participation.md#extra-time
+i've read the d3 js tutorials from Scott Murray
+* [d3 tutorials](http://alignedleft.com/tutorials/d3)
 
-[fe3]: https://github.com/cmda-fe3
+Read API from Collections (functions map, nest)
+* [Collections](https://github.com/d3/d3-collection/blob/master/README.md)
 
-[cmda]: https://github.com/cmda
+Read API from D3 Axis (axisleft,top, scale and thicks)
+* [Axis](https://github.com/d3/d3-axis)
 
-[pages]: https://pages.github.com
+Last I have helped my classmates, with checking their code and helping them in the right direction
+
